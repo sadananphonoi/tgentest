@@ -19785,8 +19785,8 @@ GameObject:
   - component: {fileID: 1418701472}
   - component: {fileID: 1418701471}
   - component: {fileID: 1418701470}
-  - component: {fileID: 1418701474}
   - component: {fileID: 1418701475}
+  - component: {fileID: 1418701474}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -19805,8 +19805,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 3.364697, y: 2.5831285, z: 4.8182817}
+  m_Center: {x: -0.18268237, y: 0.7915638, z: 0.16940597}
 --- !u!23 &1418701471
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -19876,10 +19876,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1418701469}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 95ce491b2484ffc449f0d37b6ddc1732, type: 3}
+  m_Script: {fileID: 11500000, guid: 87f7bc6621f09074aa6e2524dfc9b2c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ActivePopup: {fileID: 1945210637}
+  button: {fileID: 1945210637}
 --- !u!114 &1418701475
 MonoBehaviour:
   m_ObjectHideFlags: 0
